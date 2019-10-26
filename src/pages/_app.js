@@ -23,7 +23,7 @@ function App(props) {
           <Navbar
             color="white"
             spaced={true}
-            logo="https://www.zeiq.co/img/zeiq-logo-offblack.png"
+            logo="https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png"
           />
 
           <Switch>

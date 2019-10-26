@@ -14,10 +14,10 @@ function IndexPage(props) {
       <HeroSection
         color="white"
         size="medium"
-        title="My landing page title here"
-        subtitle="This landing page is perfect for showing off your awesome product and driving people to sign up for a paid plan."
+        title="If you want to a Marketer, so you're in right place 😇"
+        subtitle="Touch on the button gets more info."
         buttonText="Get Started"
-        image="https://uploads.divjoy.com/undraw-japan_ubgk.svg"
+        image="https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png"
         buttonOnClick={() => {
           router.push("/pricing");
         }}

@@ -490,7 +490,7 @@
                             "navbar-item"
                           ],
                           "classNameExpressions": [],
-                          "style": "color: #fff;\nbackground-color: rgb(51, 183, 96);\n    transition: background-color 0.2s ease 0s;    margin-right: .5rem;",
+                          "style": "color: #fff;\nbackground-color: rgb(175, 171, 255);\n    transition: background-color 0.2s ease 0s;    margin-right: .5rem;",
                           "libraryName": "a",
                           "propsArray": [
                             {
@@ -2209,7 +2209,7 @@
         {
           "type": "instance",
           "componentId": 7454246,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  title: \"My landing page title here\",\n  subtitle: \"This landing page is perfect for showing off your awesome product and driving people to sign up for a paid plan.\",\n  buttonText: \"Get Started\",\n  image: 'https://uploads.divjoy.com/undraw-japan_ubgk.svg',\n  buttonOnClick: () => {\n    router.push('/pricing');\n  }\n}",
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  title: \"If you want to a Marketer, so you're in right place 😇\",\n  subtitle: \"Touch on the button gets more info.\",\n  buttonText: \"Get Started\",\n  image: 'https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png',\n  buttonOnClick: () => {\n    router.push('/pricing');\n  }\n}",
           "id": 195077,
           "isVisible": true,
           "children": [],
@@ -2228,13 +2228,13 @@
             },
             {
               "key": "title",
-              "value": "My landing page title here",
+              "value": "If you want to a Marketer, so you're in right place 😇",
               "isString": true,
               "type": "StringLiteral"
             },
             {
               "key": "subtitle",
-              "value": "This landing page is perfect for showing off your awesome product and driving people to sign up for a paid plan.",
+              "value": "Touch on the button gets more info.",
               "isString": true,
               "type": "StringLiteral"
             },
@@ -2246,7 +2246,7 @@
             },
             {
               "key": "image",
-              "value": "https://uploads.divjoy.com/undraw-japan_ubgk.svg",
+              "value": "https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png",
               "isString": true,
               "type": "StringLiteral"
             },
@@ -7454,7 +7454,7 @@
         {
           "type": "instance",
           "componentId": 9215568,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // add extra padding\n  spaced: true,\n  // logo image url\n  logo: 'https://www.zeiq.co/img/zeiq-logo-offblack.png'\n}",
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // add extra padding\n  spaced: true,\n  // logo image url\n  logo: 'https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png'\n}",
           "id": 2069132,
           "isVisible": true,
           "children": [],
@@ -7473,7 +7473,7 @@
             },
             {
               "key": "logo",
-              "value": "https://www.zeiq.co/img/zeiq-logo-offblack.png",
+              "value": "https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png",
               "isString": true,
               "type": "StringLiteral"
             }
@@ -7481,7 +7481,7 @@
         },
         {
           "type": "pages",
-          "id": 1130090,
+          "id": 7381505,
           "isVisible": true,
           "children": [
             {
