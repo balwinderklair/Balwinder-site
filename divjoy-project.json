@@ -351,7 +351,7 @@
                             {
                               "type": "element",
                               "tagName": "a",
-                              "attributes": "{\n  href: '/signin'\n}",
+                              "attributes": "{\n  href: '/'\n}",
                               "children": [
                                 {
                                   "type": "text",
@@ -373,7 +373,7 @@
                               "propsArray": [
                                 {
                                   "key": "href",
-                                  "value": "/signin",
+                                  "value": "/",
                                   "isString": true,
                                   "type": "StringLiteral"
                                 }
@@ -382,7 +382,7 @@
                             {
                               "type": "element",
                               "tagName": "a",
-                              "attributes": "{\n  href: '/signin'\n}",
+                              "attributes": "{\n  href: '/about'\n}",
                               "children": [
                                 {
                                   "type": "text",
@@ -404,7 +404,7 @@
                               "propsArray": [
                                 {
                                   "key": "href",
-                                  "value": "/signin",
+                                  "value": "/about",
                                   "isString": true,
                                   "type": "StringLiteral"
                                 }
@@ -472,11 +472,11 @@
                         {
                           "type": "element",
                           "tagName": "a",
-                          "attributes": "{\n  href: '/' \n}",
+                          "attributes": "{\n  href: '/signup' \n}",
                           "children": [
                             {
                               "type": "text",
-                              "text": "Become a Rider",
+                              "text": "Sign in",
                               "id": 7480566,
                               "isVisible": true,
                               "children": []
@@ -485,7 +485,7 @@
                           "id": 5444828,
                           "isVisible": true,
                           "image": "",
-                          "name": "Become a Rider",
+                          "name": "Sign up",
                           "classNames": [
                             "navbar-item"
                           ],
@@ -495,7 +495,7 @@
                           "propsArray": [
                             {
                               "key": "href",
-                              "value": "/",
+                              "value": "/signup",
                               "isString": true,
                               "type": "StringLiteral"
                             }
@@ -504,11 +504,11 @@
                         {
                           "type": "element",
                           "tagName": "a",
-                          "attributes": "{\n  href: '/' \n}",
+                          "attributes": "{\n  href: '/signin' \n}",
                           "children": [
                             {
                               "type": "text",
-                              "text": "Link",
+                              "text": "Login",
                               "id": 2683787,
                               "isVisible": true,
                               "children": []
@@ -527,7 +527,7 @@
                           "propsArray": [
                             {
                               "key": "href",
-                              "value": "/",
+                              "value": "/signin",
                               "isString": true,
                               "type": "StringLiteral"
                             }
@@ -1272,14 +1272,14 @@
                 {
                   "type": "instance",
                   "componentId": 7285372,
-                  "attributes": "{\n  items: [\n    {\n      name: 'Instagram',\n      image: \"https://uploads.divjoy.com/logo-instagram.svg\",\n      width: \"150px\",\n    },\n    {\n      name: 'Slack',\n      image: \"https://uploads.divjoy.com/logo-slack.svg\",\n      width: \"135px\"\n    },\n    {\n      name: 'Tinder',\n      image: \"https://uploads.divjoy.com/logo-tinder.svg\",\n      width: \"90px\"\n    },\n    {\n      name: 'Spotify',\n      image: \"https://uploads.divjoy.com/logo-spotify.svg\",\n      width: \"135px\"\n    }\n  ]\n}",
+                  "attributes": "{\n  items: [\n    {\n      name: 'Instagram',\n      image: \"https://uploads.divjoy.com/logo-instagram.svg\",\n      width: \"170rem\",\n    },\n    {\n      name: 'Facebook',\n      image: \"https://www.thecanvassalon.com/wp-content/uploads/2019/07/facebook-logo-1-1.png\",\n      width: \"170rem\"\n    },\n    {\n      name: 'Twitter',\n      image: \"http://1.bp.blogspot.com/-waG3rYRs9Kg/T8_YfU0AcGI/AAAAAAAAGgg/lBsXlwHZ9r4/s1600/Twitter+logo+2011.png\",\n      width: \"175rem\"\n    },\n    {\n      name: 'Linkedin',\n      image: \"http://science.psu.edu/sciencejournaljune2012.pdf/archives/december-2013/images-december-2013/linkedin-logo.jpg/image\",\n      width: \"170rem\"\n    }\n  ]\n}",
                   "id": 8708010,
                   "isVisible": true,
                   "children": [],
                   "propsArray": [
                     {
                       "key": "items",
-                      "value": "[\n  {\n    name: 'Instagram',\n    image: \"https://uploads.divjoy.com/logo-instagram.svg\",\n    width: \"150px\",\n  },\n  {\n    name: 'Slack',\n    image: \"https://uploads.divjoy.com/logo-slack.svg\",\n    width: \"135px\"\n  },\n  {\n    name: 'Tinder',\n    image: \"https://uploads.divjoy.com/logo-tinder.svg\",\n    width: \"90px\"\n  },\n  {\n    name: 'Spotify',\n    image: \"https://uploads.divjoy.com/logo-spotify.svg\",\n    width: \"135px\"\n  }\n]",
+                      "value": "[\n  {\n    name: 'Instagram',\n    image: \"https://uploads.divjoy.com/logo-instagram.svg\",\n    width: \"170rem\",\n  },\n  {\n    name: 'Facebook',\n    image: \"https://www.thecanvassalon.com/wp-content/uploads/2019/07/facebook-logo-1-1.png\",\n    width: \"170rem\"\n  },\n  {\n    name: 'Twitter',\n    image: \"http://1.bp.blogspot.com/-waG3rYRs9Kg/T8_YfU0AcGI/AAAAAAAAGgg/lBsXlwHZ9r4/s1600/Twitter+logo+2011.png\",\n    width: \"175rem\"\n  },\n  {\n    name: 'Linkedin',\n    image: \"http://science.psu.edu/sciencejournaljune2012.pdf/archives/december-2013/images-december-2013/linkedin-logo.jpg/image\",\n    width: \"170rem\"\n  }\n]",
                       "isString": false,
                       "type": "ArrayExpression"
                     }
@@ -3367,53 +3367,6 @@
     },
     {
       "type": "component",
-      "subtype": "page-component",
-      "path": "faq",
-      "id": 327204,
-      "children": [
-        {
-          "type": "instance",
-          "componentId": 8074567,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n\tcolor: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n\ttitle: \"Frequently Asked Questions\",\n  subtitle: \"\"\n}",
-          "id": 2798265,
-          "isVisible": true,
-          "children": [],
-          "propsArray": [
-            {
-              "key": "color",
-              "value": "white",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "size",
-              "value": "medium",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "title",
-              "value": "Frequently Asked Questions",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "subtitle",
-              "value": "",
-              "isString": true,
-              "type": "StringLiteral"
-            }
-          ]
-        }
-      ],
-      "isVisible": true,
-      "code": "",
-      "nameFormatted": "FaqPage",
-      "nameStyleModule": "FaqPage",
-      "modulePath": "src/pages/faq"
-    },
-    {
-      "type": "component",
       "name": "FAQ Section",
       "id": 8074567,
       "children": [
@@ -5006,142 +4959,6 @@
       "nameFormatted": "FormStatus",
       "nameStyleModule": "FormStatus",
       "modulePath": "src/components/FormStatus"
-    },
-    {
-      "type": "component",
-      "subtype": "page-component",
-      "path": "dashboard",
-      "code": "\tconst auth = useAuth();\n\tconst router = useRouter();\n\n\t// Redirect to signin\n\t// if not signed in.\n\tuseEffect(() => {\n    if (auth.user === false){\n    \trouter.push('/signin');\n    }\n  }, [auth, router]);\n",
-      "id": 9447965,
-      "children": [
-        {
-          "type": "instance",
-          "componentId": 8384420,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n\tcolor: \"white\",\n  // normal, medium, large\n  size: \"large\",\n  title: \"Dashboard\",\n  subtitle: \"Dashboard components are coming to the Divjoy library soon. For now, you can implement a custom dashboard here after exporting your code.\"\n}",
-          "id": 8433171,
-          "isVisible": true,
-          "children": [],
-          "propsArray": [
-            {
-              "key": "color",
-              "value": "white",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "size",
-              "value": "large",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "title",
-              "value": "Dashboard",
-              "isString": true,
-              "type": "StringLiteral"
-            },
-            {
-              "key": "subtitle",
-              "value": "Dashboard components are coming to the Divjoy library soon. For now, you can implement a custom dashboard here after exporting your code.",
-              "isString": true,
-              "type": "StringLiteral"
-            }
-          ]
-        }
-      ],
-      "isVisible": true,
-      "nameFormatted": "DashboardPage",
-      "nameStyleModule": "DashboardPage",
-      "modulePath": "src/pages/dashboard"
-    },
-    {
-      "type": "component",
-      "name": "Dashboard Section",
-      "id": 8384420,
-      "children": [
-        {
-          "type": "instance",
-          "componentId": 1079246,
-          "attributes": "{\n\tcolor: props.color,\n  size: props.size\n}",
-          "children": [
-            {
-              "type": "element",
-              "tagName": "div",
-              "classNames": [
-                "container"
-              ],
-              "children": [
-                {
-                  "type": "instance",
-                  "componentId": 5415335,
-                  "attributes": "{\n\ttitle: props.title,\n  subtitle: props.subtitle,\n  centered: true,\n  // value from 1-6\n  size: 3\n}",
-                  "id": 6816971,
-                  "isVisible": true,
-                  "children": [],
-                  "propsArray": [
-                    {
-                      "key": "title",
-                      "value": "props.title",
-                      "isString": false,
-                      "type": "MemberExpression"
-                    },
-                    {
-                      "key": "subtitle",
-                      "value": "props.subtitle",
-                      "isString": false,
-                      "type": "MemberExpression"
-                    },
-                    {
-                      "key": "centered",
-                      "value": "true",
-                      "isString": false,
-                      "type": "BooleanLiteral"
-                    },
-                    {
-                      "key": "size",
-                      "value": "3",
-                      "isString": false,
-                      "type": "NumericLiteral"
-                    }
-                  ]
-                }
-              ],
-              "id": 4452922,
-              "isVisible": true,
-              "attributes": "{\n\n}",
-              "image": "",
-              "name": "",
-              "classNameExpressions": [],
-              "style": "",
-              "propsArray": []
-            }
-          ],
-          "id": 368304,
-          "isVisible": true,
-          "propsArray": [
-            {
-              "key": "color",
-              "value": "props.color",
-              "isString": false,
-              "type": "MemberExpression"
-            },
-            {
-              "key": "size",
-              "value": "props.size",
-              "isString": false,
-              "type": "MemberExpression"
-            }
-          ]
-        }
-      ],
-      "isVisible": true,
-      "nameLibrary": "",
-      "description": "",
-      "tags": [],
-      "code": "",
-      "nameFormatted": "DashboardSection",
-      "nameStyleModule": "DashboardSection",
-      "modulePath": "src/components/DashboardSection"
     },
     {
       "type": "component",
@@ -7446,6 +7263,54 @@
       "modulePath": "src/components/Footer"
     },
     {
+      "type": "component",
+      "subtype": "page-component",
+      "path": "Support",
+      "id": 3853766,
+      "isVisible": true,
+      "code": "",
+      "children": [
+        {
+          "type": "instance",
+          "componentId": 8074567,
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n\tcolor: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n\ttitle: \"Frequently Asked Questions\",\n  subtitle: \"Here are some answers to the questions we hear from people the most.\"\n}",
+          "id": 216522,
+          "isVisible": true,
+          "children": [],
+          "libraryName": "FAQ Section",
+          "propsArray": [
+            {
+              "key": "color",
+              "value": "white",
+              "isString": true,
+              "type": "StringLiteral"
+            },
+            {
+              "key": "size",
+              "value": "medium",
+              "isString": true,
+              "type": "StringLiteral"
+            },
+            {
+              "key": "title",
+              "value": "Frequently Asked Questions",
+              "isString": true,
+              "type": "StringLiteral"
+            },
+            {
+              "key": "subtitle",
+              "value": "Here are some answers to the questions we hear from people the most.",
+              "isString": true,
+              "type": "StringLiteral"
+            }
+          ]
+        }
+      ],
+      "nameFormatted": "SupportPage",
+      "nameStyleModule": "SupportPage",
+      "modulePath": "src/pages/support"
+    },
+    {
       "id": "app",
       "type": "component",
       "subtype": "app-component",
@@ -7481,7 +7346,7 @@
         },
         {
           "type": "pages",
-          "id": 1050645,
+          "id": 8742661,
           "isVisible": true,
           "children": [
             {
@@ -7503,14 +7368,6 @@
             {
               "type": "instance",
               "subtype": "page-instance",
-              "componentId": 327204,
-              "id": 2126949,
-              "isVisible": true,
-              "children": []
-            },
-            {
-              "type": "instance",
-              "subtype": "page-instance",
               "componentId": 9988735,
               "id": 2201384,
               "isVisible": true,
@@ -7521,14 +7378,6 @@
               "subtype": "page-instance",
               "componentId": 8532180,
               "id": 6844142,
-              "isVisible": true,
-              "children": []
-            },
-            {
-              "type": "instance",
-              "subtype": "page-instance",
-              "componentId": 9447965,
-              "id": 9711986,
               "isVisible": true,
               "children": []
             },
@@ -7563,13 +7412,21 @@
               "id": 3098743,
               "isVisible": true,
               "children": []
+            },
+            {
+              "type": "instance",
+              "subtype": "page-instance",
+              "componentId": 3853766,
+              "id": 5055903,
+              "isVisible": true,
+              "children": []
             }
           ]
         },
         {
           "type": "instance",
           "componentId": 7553396,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n\tcolor: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  // logo image url\n  logo: 'https://www.zeiq.co/img/zeiq-logo-offblack.png',\n  description: 'A short description of what you do here',\n  copyright: '© 2019 Company'\n}",
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n\tcolor: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  // logo image url\n  logo: 'https://balwinder-site.netlify.com/images/logo.png',\n  description: 'A short description of what you do here',\n  copyright: '© 2019 Company'\n}",
           "id": 3298569,
           "isVisible": true,
           "children": [],
@@ -7589,7 +7446,7 @@
             },
             {
               "key": "logo",
-              "value": "https://www.zeiq.co/img/zeiq-logo-offblack.png",
+              "value": "https://balwinder-site.netlify.com/images/logo.png",
               "isString": true,
               "type": "StringLiteral"
             },

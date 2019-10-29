@@ -2,14 +2,13 @@ import React from "react";
 import Navbar from "./../components/Navbar";
 import IndexPage from "./index";
 import AboutPage from "./about";
-import FaqPage from "./faq";
 import PricingPage from "./pricing";
 import ContactPage from "./contact";
-import DashboardPage from "./dashboard";
 import SigninPage from "./signin";
 import SignupPage from "./signup";
 import ForgotpassPage from "./forgotpass";
 import ChangepassPage from "./changepass";
+import SupportPage from "./support";
 import { Switch, Route, Router } from "./../util/router.js";
 import Footer from "./../components/Footer";
 import "./../util/analytics.js";
@@ -31,13 +30,9 @@ function App(props) {
 
             <Route exact path="/about" component={AboutPage} />
 
-            <Route exact path="/faq" component={FaqPage} />
-
             <Route exact path="/pricing" component={PricingPage} />
 
             <Route exact path="/contact" component={ContactPage} />
-
-            <Route exact path="/dashboard" component={DashboardPage} />
 
             <Route exact path="/signin" component={SigninPage} />
 
@@ -46,6 +41,8 @@ function App(props) {
             <Route exact path="/forgotpass" component={ForgotpassPage} />
 
             <Route exact path="/changepass" component={ChangepassPage} />
+
+            <Route exact path="/Support" component={SupportPage} />
 
             <Route
               component={({ location }) => {
@@ -68,7 +65,7 @@ function App(props) {
           <Footer
             color="white"
             size="medium"
-            logo="https://www.zeiq.co/img/zeiq-logo-offblack.png"
+            logo="https://balwinder-site.netlify.com/images/logo.png"
             description="A short description of what you do here"
             copyright="© 2019 Company"
           />

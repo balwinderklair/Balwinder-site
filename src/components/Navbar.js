@@ -53,10 +53,10 @@ function Navbar(props) {
 
             {!auth.user && (
               <>
-                <Link className="navbar-item" to="/signin">
+                <Link className="navbar-item" to="/">
                   Home
                 </Link>
-                <Link className="navbar-item" to="/signin">
+                <Link className="navbar-item" to="/about">
                   About
                 </Link>
                 <Link className="navbar-item" to="/signin">
@@ -66,14 +66,11 @@ function Navbar(props) {
             )}
           </div>
           <div className="navbar-end">
-            <Link
-              className="NavbarComponent__become-a-rider navbar-item"
-              to="/"
-            >
-              Become a Rider
+            <Link className="NavbarComponent__sign-up navbar-item" to="/signup">
+              Sign in
             </Link>
-            <Link className="navbar-item" to="/">
-              Link
+            <Link className="navbar-item" to="/signin">
+              Login
             </Link>
           </div>
         </div>

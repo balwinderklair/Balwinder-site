@@ -18,22 +18,25 @@ function ClientsSection(props) {
             {
               name: "Instagram",
               image: "https://uploads.divjoy.com/logo-instagram.svg",
-              width: "150px"
+              width: "170rem"
             },
             {
-              name: "Slack",
-              image: "https://uploads.divjoy.com/logo-slack.svg",
-              width: "135px"
+              name: "Facebook",
+              image:
+                "https://www.thecanvassalon.com/wp-content/uploads/2019/07/facebook-logo-1-1.png",
+              width: "170rem"
             },
             {
-              name: "Tinder",
-              image: "https://uploads.divjoy.com/logo-tinder.svg",
-              width: "90px"
+              name: "Twitter",
+              image:
+                "http://1.bp.blogspot.com/-waG3rYRs9Kg/T8_YfU0AcGI/AAAAAAAAGgg/lBsXlwHZ9r4/s1600/Twitter+logo+2011.png",
+              width: "175rem"
             },
             {
-              name: "Spotify",
-              image: "https://uploads.divjoy.com/logo-spotify.svg",
-              width: "135px"
+              name: "Linkedin",
+              image:
+                "http://science.psu.edu/sciencejournaljune2012.pdf/archives/december-2013/images-december-2013/linkedin-logo.jpg/image",
+              width: "170rem"
             }
           ]}
         />
