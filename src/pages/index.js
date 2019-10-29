@@ -17,7 +17,7 @@ function IndexPage(props) {
         title="If you want to a Marketer, so you're in right place 😇"
         subtitle="Touch on the button gets more info."
         buttonText="Get Started"
-        image="https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png"
+        image="https://balwinder-site.netlify.com/images/undraw_social_dashboard_k3pt.png"
         buttonOnClick={() => {
           router.push("/pricing");
         }}

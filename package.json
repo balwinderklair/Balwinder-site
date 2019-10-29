@@ -14,7 +14,7 @@
     "bulma": "0.7.5",
     "query-string": "6.8.3",
     "firebase": "6.6.2",
-    "analytics": "0.2.2",
+    "analytics": "0.2.6",
     "@analytics/google-analytics": "0.2.0",
     "mailchimp-api-v3": "1.13.1",
     "express": "4.17.1",

@@ -490,7 +490,7 @@
                             "navbar-item"
                           ],
                           "classNameExpressions": [],
-                          "style": "color: #fff;\nbackground-color: rgb(175, 171, 255);\n    transition: background-color 0.2s ease 0s;    margin-right: .5rem;",
+                          "style": "color: #fff;\nbackground-color: rgb(108, 99, 255);\n    transition: background-color 0.2s ease 0s;    margin-right: .5rem;",
                           "libraryName": "a",
                           "propsArray": [
                             {
@@ -2209,7 +2209,7 @@
         {
           "type": "instance",
           "componentId": 7454246,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  title: \"If you want to a Marketer, so you're in right place 😇\",\n  subtitle: \"Touch on the button gets more info.\",\n  buttonText: \"Get Started\",\n  image: 'https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png',\n  buttonOnClick: () => {\n    router.push('/pricing');\n  }\n}",
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // normal, medium, large\n  size: \"medium\",\n  title: \"If you want to a Marketer, so you're in right place 😇\",\n  subtitle: \"Touch on the button gets more info.\",\n  buttonText: \"Get Started\",\n  image: 'https://balwinder-site.netlify.com/images/undraw_social_dashboard_k3pt.png',\n  buttonOnClick: () => {\n    router.push('/pricing');\n  }\n}",
           "id": 195077,
           "isVisible": true,
           "children": [],
@@ -2246,7 +2246,7 @@
             },
             {
               "key": "image",
-              "value": "https://srv-file1.gofile.io/download/R1YaON/undraw_mobile_marketing_iqbr.png",
+              "value": "https://balwinder-site.netlify.com/images/undraw_social_dashboard_k3pt.png",
               "isString": true,
               "type": "StringLiteral"
             },
@@ -7454,7 +7454,7 @@
         {
           "type": "instance",
           "componentId": 9215568,
-          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // add extra padding\n  spaced: true,\n  // logo image url\n  logo: 'https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png'\n}",
+          "attributes": "{\n  // primary, link, info, success, warning, \n  // danger, white, light, dark, black\n  color: \"white\",\n  // add extra padding\n  spaced: true,\n  // logo image url\n  logo: 'https://balwinder-site.netlify.com/images/logo.png'\n}",
           "id": 2069132,
           "isVisible": true,
           "children": [],
@@ -7473,7 +7473,7 @@
             },
             {
               "key": "logo",
-              "value": "https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png",
+              "value": "https://balwinder-site.netlify.com/images/logo.png",
               "isString": true,
               "type": "StringLiteral"
             }
@@ -7481,7 +7481,7 @@
         },
         {
           "type": "pages",
-          "id": 7381505,
+          "id": 1050645,
           "isVisible": true,
           "children": [
             {

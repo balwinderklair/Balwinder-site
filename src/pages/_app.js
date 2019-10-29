@@ -23,7 +23,7 @@ function App(props) {
           <Navbar
             color="white"
             spaced={true}
-            logo="https://srv-file1.gofile.io/download/4YdaKt/Digital-logo%20(1).png"
+            logo="https://balwinder-site.netlify.com/images/logo.png"
           />
 
           <Switch>
