@@ -17,7 +17,7 @@ function IndexPage(props) {
         title="Get followers on Instagram, Facebook, Twitter and LinkedIn with us."
         subtitle="Touch on the button gets more info."
         buttonText="Get Started"
-        image="https://balwinder-site.netlify.com/images/undraw_social_dashboard_k3pt.png"
+        image="/Images/undraw_mobile_marketing_iqbr.png"
         buttonOnClick={() => {
           router.push("/pricing");
         }}
