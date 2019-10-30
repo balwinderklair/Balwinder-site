@@ -14,7 +14,7 @@ function IndexPage(props) {
       <HeroSection
         color="white"
         size="medium"
-        title="If you want to a Marketer, so you're in right place 😇"
+        title="Get followers on Instagram, Facebook, Twitter and LinkedIn with us."
         subtitle="Touch on the button gets more info."
         buttonText="Get Started"
         image="https://balwinder-site.netlify.com/images/undraw_social_dashboard_k3pt.png"
@@ -26,8 +26,9 @@ function IndexPage(props) {
       <FeaturesSection
         color="white"
         size="medium"
-        title="Features"
-        subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+        title="Our facilities"
+        Lorem
+        /*subtitle=" ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."*/
       />
       <TestimonialsSection
         color="light"

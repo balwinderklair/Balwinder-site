@@ -16,29 +16,28 @@ function FeaturesSection(props) {
         <Features
           items={[
             {
-              title: "Explore",
+              title: "Advanced analytics",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
-              image: "https://uploads.divjoy.com/undraw-mind_map_cwng.svg"
+                "Maximize your social media performance by making insightful, data-driven decisions based on intelligible analytics. A customized dashboard quickly visualizes the metrics most important to you, and scheduled reports help you stay on top of your game.",
+              image: "/Images/undraw_metrics_gtu7.png"
             },
             {
-              title: "Explore",
+              title: "Customer Support",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
-              image:
-                "https://uploads.divjoy.com/undraw-personal_settings_kihd.svg"
+                "you will receive technical assistance whenever you need it. Feel free to contact us with your questions and our friendly team will get back to you within 24hours hours",
+              image: "/Images/undraw_a_whole_year_vnfm.png"
             },
             {
-              title: "Explore",
+              title: "Safe to use",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
-              image: "https://uploads.divjoy.com/undraw-having_fun_iais.svg"
+                "Our one of a kind service will automatically reduce its speed to ensure that your account is safe from hitting Instagram limits and we offer multiple speed settings for advanced users.",
+              image: "/Images/undraw_Security_on_ff2u.png"
             },
             {
-              title: "Explore",
+              title: "Grow Your Channel",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
-              image: "https://uploads.divjoy.com/undraw-balloons_vxx5.svg"
+                "Find out how to nurture your growing community, and how to get your fans to grow your channel WITH you. No matter who you are, or how long you've been a YouTuber, we can help you grow!",
+              image: "/Images/undraw_Growing_qwt2.png"
             }
           ]}
         />
