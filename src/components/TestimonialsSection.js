@@ -16,26 +16,26 @@ function TestimonialsSection(props) {
         <Testimonials
           items={[
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-5.jpeg",
-              name: "Sarah Kline",
+              avatar: "https://www.packrs.co/images/packrs-logo.png",
+              name: "Packrs",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+                "Decent staff and management, i learned lot about social media trends from seniors, good workplace for freshers and experienced people. My experience of working here is good and recommend every new beginner to join this organization and learn new trends of digital marketing.",
               company: "Company"
             },
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-48.jpeg",
-              name: "Shawna Murray",
+              avatar: "https://www.zeiq.co/img/zeiq-logo-offblack.png",
+              name: "Zeiq",
               role: "Software Engineer",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo, corporis totam!",
+                "This company helps staff to progress within their roles. There is a relaxed work environment. The staff are eager to do a good job and there is great communication.",
               company: "Company"
             },
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-12.jpeg",
-              name: "Blake Elder",
+              avatar: "https://www.shdevices.ca/images/logo.jpeg",
+              name: "Smart Home Devices",
               role: "Designer",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae.",
+                "Excellent place to work to get on hands training and guidance from the leaders in the industry. Very vast paced, results oriented team player environment.",
               company: "Company"
             }
           ]}
