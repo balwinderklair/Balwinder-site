@@ -33,7 +33,7 @@ function IndexPage(props) {
       <TestimonialsSection
         color="light"
         size="medium"
-        title="Here's what people are saying"
+        title="Our Client Review"
         subtitle=""
       />
       <NewsletterSection
