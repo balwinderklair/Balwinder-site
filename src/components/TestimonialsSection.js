@@ -19,7 +19,7 @@ function TestimonialsSection(props) {
               avatar: "https://www.packrs.co/images/packrs-logo.png",
               name: "Packrs",
               bio:
-                "Decent staff and management, i learned lot about social media trends from seniors, good workplace for freshers and experienced people. My experience of working here is good and recommend every new beginner to join this organization and learn new trends of digital marketing.",
+                "Decent staff and management, i learned lot about social media trends from seniors, good workplace for freshers and experienced people.My experience of working here is good and recommend every new beginner to join this organization and learn new trends of digital marketing.",
               company: "Company"
             },
             {
