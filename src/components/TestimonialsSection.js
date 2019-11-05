@@ -23,7 +23,7 @@ function TestimonialsSection(props) {
               company: "Company"
             },
             {
-              avatar: "https://www.zeiq.co/img/zeiq-logo-offblack.png",
+              avatar: "/Images/Zeiq-logo.png",
               name: "Zeiq",
               role: "Software Engineer",
               bio:
@@ -31,7 +31,7 @@ function TestimonialsSection(props) {
               company: "Company"
             },
             {
-              avatar: "https://www.shdevices.ca/images/logo.jpeg",
+              avatar: "/Images/Smart-devies.png",
               name: "Smart Home Devices",
               role: "Designer",
               bio:
